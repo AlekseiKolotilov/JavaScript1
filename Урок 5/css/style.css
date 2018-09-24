@@ -1,0 +1,10 @@
+.white{
+	background: white;}
+.black{
+	background: black;}
+td {
+	height: 45px;
+	width: 45px;}
+
+.line, .column{
+	text-align: center;}
